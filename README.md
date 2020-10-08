@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+October 7th, 2020
 
 ### Project Title
-Replace the Project Title
+Bikeshare Python Project
 
 ### Description
-Describe what your project is about and what it does
+My project uses pyhton to understand  bike share sytems data of three cities: washington, new york and chicago. It filters and calculates statistics from the data of these cities.
 
 ### Files used
-Include the files used
+Chicago.csv
+New_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://stackoverflow.com/
