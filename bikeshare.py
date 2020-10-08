@@ -10,6 +10,7 @@ def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
 
+
     Returns:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
@@ -28,7 +29,6 @@ while true:
             print('I am sorry, this is not a valid city, please try again')
          else:
             break
-
     while True:
         try:
            month=input('Which month would you like to choose? (all,january,february,... june:)')
