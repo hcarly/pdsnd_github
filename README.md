@@ -5,7 +5,8 @@ October 7th, 2020
 Bikeshare Python Project
 
 ### Description
-My project uses pyhton to understand  bike share sytems data of three cities: washington, new york and chicago. It filters and calculates statistics from the data of these cities.
+My project uses Python to understand  bike share systems data of three cities: Washington, 
+New York and Chicago. It filters and calculates statistics from the data of these cities.
 
 ### Files used
 Chicago.csv
@@ -14,3 +15,4 @@ washington.csv
 
 ### Credits
 https://stackoverflow.com/
+https://knowledge.udacity.com/
